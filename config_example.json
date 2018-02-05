@@ -1,0 +1,22 @@
+{
+   "db_host": "localhost",
+   "db_user": "",
+   "db_password": "",
+   "db_time_zone": "+1:00",
+   "github_authtokens": [""],
+   "mongodb_proc": "example",
+   "mongodb_raw": "example-raw",
+   "mongourl": "mongodb://127.0.0.1:27017",
+   "clone_dir": "~/extract/clones",
+   "validation_dir": "~/extract/data/example/validation",
+   "sample_set": "/usr2/scratch/giterator/new_giterator/sample_set_example.txt",
+   "data_dir" : "~/extract/data/example",
+   "issues_dir": "~/extract/data/example/issues",
+   "success_stats": "~/extract/data/example/daily_stats_example_with_comments.csv",
+   "success_stats_mo": "~/extract/data/example/monthly_stats_example_with_comments.csv",
+   "git_users": "~/extract/data/example/git_users.csv",
+   "git_projects": "~/extract/data/example/git_projects.csv",
+   "events": "~/extract/data/example/events",
+   "events-db": "gha_example",
+   "versions": "~/extract/data/example/versions.csv"
+}
